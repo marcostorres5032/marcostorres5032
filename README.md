@@ -1,5 +1,5 @@
 ## Hola! 👋
-### Estudiante del Centro Universitario de Guadalajara de la Universidad de Guadalajara
+### Estudiante del CUGDL de la Universidad de Guadalajara
 #### Lic en Ciberseguridad
 
 <!--
