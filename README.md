@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola! 👋
+### Estudiante del Centro Universitario de Guadalajara de la Universidad de Guadalajara
+#### Lic en Ciberseguridad
 
 <!--
 **marcostorres5032/marcostorres5032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
