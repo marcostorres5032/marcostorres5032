@@ -1,5 +1,5 @@
 ## Hola! 👋
-### Estudiante de la Lic en Ciberseguridad en el CUGDL, UDG
+### Estudiante de la Lic en Ciberseguridad en la Universidad de Guadalajara
 
 <!--
 **marcostorres5032/marcostorres5032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
